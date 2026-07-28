@@ -6,10 +6,8 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor Full Stack
 - 🚀 Desenvolvendo a Fornexa
-- 📚 Sempre aprendendo novas tecnologias
-
+- 🚀 Dono da https://prontomenu.app.br/
 ## 📊 Estatísticas
 
 <p align="center">
