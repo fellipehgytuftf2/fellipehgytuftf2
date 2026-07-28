@@ -1,11 +1,6 @@
+<div align="center">
 
-</div>
-
-</div>
-
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+;Fundador+da+Fornexa;Criando+SaaS;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor;Fundador+da+Fornexa;Criando+SaaS" />
 
 <br>
 
@@ -17,11 +12,9 @@
 
 <div align="center">
 
-<div align="center">
+# 🚀 Sobre Mim
 
-## 🚀 Sobre Mim
-
-<table width="600">
+<table>
 <tr>
 <td align="center">
 
@@ -31,7 +24,7 @@
 
 🚀 Desenvolvendo a **Fornexa**
 
-🌐 prontomenu.app.br
+🌐 <a href="https://prontomenu.app.br">prontomenu.app.br</a>
 
 🎯 SaaS para Restaurantes
 
@@ -39,11 +32,15 @@
 </tr>
 </table>
 
+</div>
+
+---
+
 <div align="center">
 
-## 🚀 Projeto Principal
+# 🚀 Projeto Principal
 
-# PRONTOMENU
+## PRONTOMENU
 
 Sistema SaaS para restaurantes.
 
@@ -55,7 +52,7 @@ Sistema SaaS para restaurantes.
 
 ⚡ Performance
 
-🌐 https://prontomenu.app.br
+🌐 <a href="https://prontomenu.app.br">prontomenu.app.br</a>
 
 </div>
 
@@ -63,14 +60,16 @@ Sistema SaaS para restaurantes.
 
 <div align="center">
 
-## 🌎 Contato
+# 🌎 Contato
 
 <a href="https://github.com/fellipehgytuftf2">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://prontomenu.app.br">
-<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
