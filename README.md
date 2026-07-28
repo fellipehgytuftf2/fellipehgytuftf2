@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou <span style="color:#3B82F6">Fellipe</span>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=45&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&height=90&lines=👋+Olá,+eu+sou+Fellipe;🚀+Fundador+da+Fornexa;💻+Desenvolvedor+Full+Stack" />
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Fundador+da+Fornexa;Criando+SaaS+para+Restaurantes;Sempre+aprendendo+algo+novo" />
 
