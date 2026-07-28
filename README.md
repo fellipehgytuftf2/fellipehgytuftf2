@@ -1,67 +1,75 @@
 <div align="center">
 
-# Fellipe
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Fellipe&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=60&animation=fadeIn"/>
 
-### Building software that simplifies restaurant management.
+<h1>👋 Olá, eu sou Fellipe</h1>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Founder+of+Fornexa;Building+SaaS+Products;React+•+TypeScript+•+Supabase" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Criando+a+Fornexa;Apaixonado+por+SaaS;Transformando+ideias+em+produtos"/>
 </p>
-
-<br>
-
-*"Great software feels invisible."*
 
 </div>
 
 ---
 
-# About
+# 🚀 Sobre mim
 
-I'm a Full Stack Developer focused on building products that solve real business problems.
+Sou um desenvolvedor apaixonado por criar produtos que resolvem problemas reais.
 
-Currently building **Fornexa**, a SaaS platform for restaurants and delivery businesses.
+Atualmente estou desenvolvendo a **Fornexa**, uma plataforma SaaS voltada para restaurantes, cardápios digitais e gestão de pedidos.
 
-I enjoy creating software with clean interfaces, simple experiences and scalable architectures.
+Meu objetivo é construir sistemas modernos, rápidos e intuitivos, focando sempre na experiência do usuário.
 
----
+<br>
 
-# Current Focus
+<div align="center">
 
-```txt
-🚀 Building............... Fornexa
+## 💼 Projeto Atual
 
-🌎 Website................ https://prontomenu.app.br
+### 🚀 Fornexa
 
-💻 Stack.................. React · TypeScript · Supabase
+Sistema completo para restaurantes.
 
-🎯 Goal................... Build products people love
+🌐 https://prontomenu.app.br
 
-☕ Fuel................... Coffee
-```
-
----
-
-# Philosophy
-
-> Simplicity is harder than complexity.
->
-> Good software disappears.
->
-> The user should only notice the experience.
+</div>
 
 ---
 
 <div align="center">
 
-### Connect
+## ⚙️ Tecnologias
 
-[GitHub](https://github.com/fellipehgytuftf2)
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,supabase,postgres,git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📱 Minha Filosofia
+
+> **"Software bom é aquele que o usuário nem percebe que está usando."**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌎 Vamos conversar?
+
+<a href="https://github.com/fellipehgytuftf2">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://prontomenu.app.br">
+<img src="https://img.shields.io/badge/Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 </div>
 
 <br>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:2563eb&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:0F172A"/>
