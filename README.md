@@ -1,13 +1,76 @@
 <div align="center">
 
-# Fellipe
+# 👋 Olá, eu sou <span style="color:#3B82F6">Fellipe</span>
 
-### Desenvolvedor Full Stack • Fundador da Fornexa
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=34&duration=2200&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Construindo+produtos+digitais.;Criando+a+Fornexa.;SaaS+para+restaurantes." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Fundador+da+Fornexa;Criando+SaaS+para+Restaurantes;Sempre+aprendendo+algo+novo" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:2563EB&height=120&section=header"/>
 
 </div>
+
+---
+
+# 🚀 Sobre mim
+
+```bash
+> Nome............. Fellipe
+> Cargo............ Desenvolvedor Full Stack
+> Projeto.......... Fornexa
+> Website.......... prontomenu.app.br
+> Foco............. SaaS para Restaurantes
+> Objetivo......... Construir produtos incríveis
+```
+
+---
+
+<div align="center">
+
+## 💻 Stack
+
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,supabase,postgres,docker,git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Projeto Principal
+
+# FORNEXA
+
+Sistema SaaS para restaurantes.
+
+🍔 Cardápio Digital
+
+📦 Gestão de Pedidos
+
+📈 Dashboard
+
+⚡ Performance
+
+🌐 https://prontomenu.app.br
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌎 Contato
+
+<a href="https://github.com/fellipehgytuftf2">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://prontomenu.app.br">
+<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0B1020"/>
