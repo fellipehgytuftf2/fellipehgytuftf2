@@ -7,7 +7,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Fundador+da+Fornexa;Criando+SaaS+para+Restaurantes;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+;Fundador+da+Fornexa;Criando+SaaS;" />
 
 <br>
 
