@@ -18,11 +18,11 @@
 <tr>
 <td align="center">
 
-### 👨‍💻 Fellipe
+### 👨‍💻 Fellipe Foralosso
+
+**No Momento**
 
 🚀 Desenvolvendo a **Fornexa**
-
-🎯 SaaS de Dropshipping
 
 </td>
 </tr>
