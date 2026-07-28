@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# 🚀 Sobre Mim
+# Sobre Mim
 
 <table>
 <tr>
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-# 🚀 Projeto Principal
+# Projeto Principal
 
 ## PRONTOMENU
 
