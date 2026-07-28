@@ -41,8 +41,6 @@
 </tr>
 </table>
 
----
-
 <div align="center">
 
 ## 🚀 Projeto Principal
