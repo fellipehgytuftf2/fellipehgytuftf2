@@ -15,13 +15,6 @@
 
 ---
 
-## 🛠 Tecnologias
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,supabase,postgres,git,github,vscode" />
-</p>
-
----
 
 ## 📊 Estatísticas
 
