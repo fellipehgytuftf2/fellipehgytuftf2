@@ -18,7 +18,7 @@
 ---
 
 <<p align="center">
-src=type=transparent&text=%20Sobre Mim&fontColor=FFFFFF&fontSize=42&animation=blinking&height=120"/>
+transparent&text=%20Sobre Mim&fontColor=FFFFFF&fontSize=42&animation=blinking&height=120"/>
 </p>
 
 ```bash
