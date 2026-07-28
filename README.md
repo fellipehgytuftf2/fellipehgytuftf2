@@ -1,6 +1,4 @@
-<<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=%20Fellipe&fontColor=FFFFFF&fontSize=42&animation=blinking&height=120"/>
-</p>
+
 </div>
 
 </div>
