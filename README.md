@@ -19,21 +19,28 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🚀 Sobre Mim
 
-<table>
+<table width="600">
 <tr>
-<td align="left">
+<td align="center">
 
-Nome ................. **Fellipe**<br>
-Cargo ................ Desenvolvedor Full Stack<br>
-Projeto .............. Fornexa<br>
-Website .............. <a href="https://prontomenu.app.br">prontomenu.app.br</a><br>
-Foco ................. SaaS para Restaurantes
+### 👨‍💻 Fellipe
+
+**Desenvolvedor Full Stack**
+
+🚀 Desenvolvendo a **Fornexa**
+
+🌐 prontomenu.app.br
+
+🎯 SaaS para Restaurantes
 
 </td>
 </tr>
 </table>
+
 
 </div>
 
