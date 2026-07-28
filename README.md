@@ -1,7 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=45&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&height=90&lines=👋+Olá,+eu+sou+Fellipe;🚀+Fundador+da+Fornexa;💻+Desenvolvedor+Full+Stack" />
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Olá,%20eu%20sou%20Fellipe&fontSize=42&animation=fadeIn&height=120"/>
+</p>
 </div>
 
 </div>
