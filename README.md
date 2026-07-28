@@ -66,8 +66,6 @@ Sistema SaaS para restaurantes.
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://prontomenu.app.br">
   <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
