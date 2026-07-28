@@ -21,7 +21,6 @@
 ### 👨‍💻 Fellipe Foralosso
 
 **No Momento**
-
 🚀 Desenvolvendo a **Fornexa**
 
 </td>
