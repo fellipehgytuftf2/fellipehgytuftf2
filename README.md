@@ -21,22 +21,16 @@
 
 ```bash
 > Nome............. Fellipe
-> Cargo............ Desenvolvedor Full Stack
-> Projeto.......... Fornexa
+> Cargo............ Desenvolvedor
+> Projeto Feito.......... ProntoMenu
 > Website.......... prontomenu.app.br
 > Foco............. SaaS para Restaurantes
-> Objetivo......... Construir produtos incríveis
+> Objetivo......... Facilitar a vida do Dono de Restaurante
 ```
 
 ---
 
 <div align="center">
-
-## 💻 Stack
-
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,supabase,postgres,docker,git,github,vscode" />
-
-</div>
 
 ---
 
