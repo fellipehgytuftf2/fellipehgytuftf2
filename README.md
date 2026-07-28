@@ -45,7 +45,7 @@
 
 ## 🚀 Projeto Principal
 
-# FORNEXA
+# PRONTOMENU
 
 Sistema SaaS para restaurantes.
 
