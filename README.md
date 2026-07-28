@@ -72,8 +72,4 @@ Sistema SaaS para restaurantes.
   <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0B1020"/>
