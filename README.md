@@ -18,7 +18,7 @@
 ---
 
 <<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=%20Sobre Mim&fontColor=FFFFFF&fontSize=42&animation=blinking&height=120"/>
+<img src=type=transparent&text=%20Sobre Mim&fontColor=FFFFFF&fontSize=42&animation=blinking&height=120"/>
 </p>
 
 ```bash
