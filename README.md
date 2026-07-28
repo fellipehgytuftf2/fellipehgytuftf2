@@ -45,10 +45,6 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
 ## 🚀 Projeto Principal
 
 # FORNEXA
