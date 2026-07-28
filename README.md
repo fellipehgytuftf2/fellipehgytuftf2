@@ -25,9 +25,11 @@
 <div align="center">
 
 
+<div align="center">
 
-# Sobre Mim
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=70&section=header&text=Sobre%20Mim&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 
+</div>
 
 
 <table>
@@ -67,7 +69,11 @@
 
 
 
-# Projeto Principal
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=70&section=header&text=Projeto%20Principal&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 
 
