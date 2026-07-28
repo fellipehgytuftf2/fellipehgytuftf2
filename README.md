@@ -1,36 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Fellipe&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=60&animation=fadeIn"/>
+# 👋 Olá, eu sou Fellipe
 
-<h1>👋 Olá, eu sou Fellipe</h1>
+### Desenvolvedor Full Stack • Criando a Fornexa
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Criando+a+Fornexa;Apaixonado+por+SaaS;Transformando+ideias+em+produtos"/>
-</p>
-
-</div>
-
----
-
-# 🚀 Sobre mim
-
-Sou um desenvolvedor apaixonado por criar produtos que resolvem problemas reais.
-
-Atualmente estou desenvolvendo a **Fornexa**, uma plataforma SaaS voltada para restaurantes, cardápios digitais e gestão de pedidos.
-
-Meu objetivo é construir sistemas modernos, rápidos e intuitivos, focando sempre na experiência do usuário.
-
-<br>
-
-<div align="center">
-
-## 💼 Projeto Atual
-
-### 🚀 Fornexa
-
-Sistema completo para restaurantes.
-
-🌐 https://prontomenu.app.br
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Construindo+o+futuro+dos+restaurantes.;Transformando+ideias+em+produtos.;Criando+SaaS+que+fazem+diferença." />
 
 </div>
 
@@ -38,9 +12,28 @@ Sistema completo para restaurantes.
 
 <div align="center">
 
-## ⚙️ Tecnologias
+# 🚀 O que estou construindo
 
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,supabase,postgres,git,github,vscode" />
+</div>
+
+### 🍽️ Fornexa
+
+Uma plataforma SaaS desenvolvida para simplificar a gestão de restaurantes.
+
+- 📋 Cardápio Digital
+- 📦 Gestão de Pedidos
+- 📊 Dashboard Inteligente
+- ⚡ Interface rápida e moderna
+
+🌐 **https://prontomenu.app.br**
+
+---
+
+<div align="center">
+
+# 💻 Stack
+
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nodejs,supabase,postgres,docker,git,github,vscode" />
 
 </div>
 
@@ -48,28 +41,30 @@ Sistema completo para restaurantes.
 
 <div align="center">
 
-## 📱 Minha Filosofia
-
-> **"Software bom é aquele que o usuário nem percebe que está usando."**
+# 🎯 Meu objetivo
 
 </div>
+
+> Criar produtos simples, rápidos e bonitos que resolvam problemas reais.
 
 ---
 
 <div align="center">
 
-## 🌎 Vamos conversar?
+# 📬 Contato
 
 <a href="https://github.com/fellipehgytuftf2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://prontomenu.app.br">
-<img src="https://img.shields.io/badge/Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:0F172A"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,100:2563EB"/>
+</p>
