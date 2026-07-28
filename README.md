@@ -20,13 +20,9 @@
 
 ### 👨‍💻 Fellipe
 
-**Desenvolvedor Full Stack**
-
 🚀 Desenvolvendo a **Fornexa**
 
-🌐 <a href="https://prontomenu.app.br">prontomenu.app.br</a>
-
-🎯 SaaS para Restaurantes
+🎯 SaaS de Dropshipping
 
 </td>
 </tr>
