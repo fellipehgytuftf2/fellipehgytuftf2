@@ -17,10 +17,6 @@
 
 ---
 
-<<p align="center">
-Sobre-Mim&fontColor=FFFFFF&fontSize=42&animation=blinking&height=120"/>
-</p>
-
 ```bash
 > Nome............. Fellipe
 > Cargo............ Desenvolvedor
