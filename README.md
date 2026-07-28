@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=46&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=👋+Olá...;Eu+sou+Fellipe.;Bem-vindo+ao+meu+GitHub." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=45&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&height=90&lines=👋+Olá,+eu+sou+Fellipe;🚀+Fundador+da+Fornexa;💻+Desenvolvedor+Full+Stack" />
+
+</div>
 
 </div>
 
