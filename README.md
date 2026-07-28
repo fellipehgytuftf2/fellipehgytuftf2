@@ -17,15 +17,25 @@
 
 ---
 
-Sobre Mim
+<div align="center">
 
-```bash
-> Nome............. Fellipe
-> Cargo............ Desenvolvedor
-> Projeto Feito.......... ProntoMenu
-> Website.......... prontomenu.app.br
-> Foco............. SaaS para Restaurantes
-```
+## 🚀 Sobre Mim
+
+<table>
+<tr>
+<td align="left">
+
+Nome ................. **Fellipe**<br>
+Cargo ................ Desenvolvedor Full Stack<br>
+Projeto .............. Fornexa<br>
+Website .............. <a href="https://prontomenu.app.br">prontomenu.app.br</a><br>
+Foco ................. SaaS para Restaurantes
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
